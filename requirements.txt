@@ -1,5 +1,6 @@
 fastapi
-uvicorn==0.30.0
+uvicorn
 requests
 python-dotenv
 snowflake-snowpark-python
+snowflake-ml-python
