@@ -1,5 +1,6 @@
 import os
 import requests
+import uvicorn
 from fastapi import FastAPI
 from pydantic import BaseModel
 from snowflake.snowpark import Session
