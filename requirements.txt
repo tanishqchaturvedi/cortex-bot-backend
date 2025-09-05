@@ -2,4 +2,4 @@ fastapi
 uvicorn
 requests
 python-dotenv
-snowflake-snowpark-python[pandas]
+snowflake-snowpark-python
